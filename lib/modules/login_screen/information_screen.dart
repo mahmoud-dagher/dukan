@@ -1,6 +1,6 @@
 import 'package:dukan/Shared/components/buttons.dart';
 import 'package:dukan/Shared/components/space_widget.dart';
-import 'package:dukan/Shared/components/user_info_item.dart';
+import 'package:dukan/Shared/components/custom_text_form_field.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_icon_class/font_awesome_icon_class.dart';
 
